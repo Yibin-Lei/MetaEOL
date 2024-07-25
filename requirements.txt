@@ -1,0 +1,16 @@
+transformers==4.41.2
+bitsandbytes==0.39.0
+tensor-parallel==1.2.8
+scipy
+datasets==1.2.1
+pandas==1.1.5
+scikit-learn
+prettytable
+gradio
+torch==2.0.0
+setuptools==49.3.0
+dill==0.3.4
+fire
+numpy==1.21.6
+sentencepiece==0.1.99
+accelerate
